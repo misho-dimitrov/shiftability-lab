@@ -1,16 +1,17 @@
 ---
 widget: hero
+widget_id: Description
 headless: true
 weight: 10
 title: THE SHIFTABILITY LAB
-hero_media: welcome.jpg
-widget_id: Description
+active: true
 design:
   columns: "1"
   css_style: null
   css_class: null
   background:
     image: ""
+hero_media: welcome.jpg
 ---
 
 <br>
