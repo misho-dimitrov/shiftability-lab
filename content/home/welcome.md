@@ -4,7 +4,7 @@ headless: true
 weight: 10
 title: THE SHIFTABILITY LAB
 hero_media: welcome.jpg
-widget_id: Added description
+widget_id: Description
 design:
   columns: "1"
   css_style: null
