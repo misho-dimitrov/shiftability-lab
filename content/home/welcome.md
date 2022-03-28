@@ -4,7 +4,7 @@ widget_id: Description
 headless: true
 weight: 10
 title: THE SHIFTABILITY LAB
-active: true
+active: false
 design:
   columns: "1"
   css_style: null
