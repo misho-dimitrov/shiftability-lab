@@ -16,6 +16,8 @@ hero_media: welcome.jpg
 
 <br>
 
+<span style="color:white">
+
 ## Welcome to the **Shiftability Lab**.
 
 ### Neurosignalling and neurodiversity
@@ -36,3 +38,5 @@ As part of the AIMS-2-TRIALS project - the largest mental health study in Europe
 
 ### Making a difference
 We hope that our projects will expedite the discovery and development of novel strategies to tackle some of the difficulties that some people with conditions like autism experience daily. We hope that this would ultimately improve their physical and mental health and well-being while also preserving their unique and valuable skills.
+
+ </span>
