@@ -69,10 +69,10 @@ title: GABA B receptor modulation of visual sensory processing in adults with
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**NIHR Maudsley BRC**]"
+  caption: "Image credit: [**NIHR Maudsley BRC**](https://www.maudsleybrc.nihr.ac.uk/media/412363/visual-sensitivity-autism-1.png)"
   focal_point: ""
   preview_only: false
-  filename: cs.png
+  filename: 
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
