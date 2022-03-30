@@ -72,7 +72,7 @@ image:
   caption: "Image credit: [**NIHR Maudsley BRC**]"
   focal_point: ""
   preview_only: false
-  filename: https://www.maudsleybrc.nihr.ac.uk/media/412363/visual-sensitivity-autism-1.png
+  filename: cs.png
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
