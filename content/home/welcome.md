@@ -14,7 +14,6 @@ design:
     text_color_light: false
 hero_media: welcome.jpg
 ---
-
 <br>
 
 ## <span style="color:white"> Welcome to the **Shiftability Lab**. </span>
@@ -37,5 +36,3 @@ Differences in these brain networks and the chemicals associated with them make 
 
 ### <span style="color:white"> Making a difference  </span>
 <span style="color:white"> We hope that our projects will expedite the discovery and development of novel strategies to tackle some of the difficulties that some people with conditions like autism experience daily. We hope that this would ultimately improve their physical and mental health and well-being while also preserving their unique and valuable skills. </span>
-
-ggr
