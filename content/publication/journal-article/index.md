@@ -23,7 +23,7 @@ abstract: >
   function are fundamental to autistic (visual) sensory neurobiology and are
   modulated by GABAB activity.
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 
 publication_types:
   - "2"
 authors:
@@ -62,7 +62,7 @@ url_source: ""
 url_video: ""
 publication: Science Translational Medicine, 14(626)
 featured: false
-date: 2015-09-01T00:00:00Z
+date: 2022-01-05T00:00:00Z
 url_slides: ""
 title: GABA B receptor modulation of visual sensory processing in adults with
   and without autism spectrum disorder
