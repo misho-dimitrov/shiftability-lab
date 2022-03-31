@@ -46,7 +46,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/neuromishmash
   - icon: researchgate
-    icon_pack: academic
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
