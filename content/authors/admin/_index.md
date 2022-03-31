@@ -1,37 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mihail 'Misho' Dimitrov
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Pharmacological Neuroimaging of Autism
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Institute of Psychiatry, Psychology and Neuroscience, King's College London
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ... .
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neurodevelopmental and Psychiatric Conditions
+  - Pharmacological Probing
+  - Multi-modal Neuroimaging
+  - Computational Modelling of Brain Phenomena
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Pharmacological Neuroimaging of Autism
+      institution: King's College London
+      year: 2023
+    - course: MSc in Neuroimaging
+      institution: King's College London
+      year: 2018
+    - course: BSc in Neuroscience
+      institution: King's College London
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,16 +41,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:mihail.dimitrov@kcl.ac.uk'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
+    link: https://twitter.com/neuromishmash
+  - icon: researchgate
+    icon_pack: academic
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/misho-dimitrov
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +69,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Misho is a PhD student in pharmacological neuroimaging of autism at the IoPPN Shiftability lab. His research interests include ... . He ... .
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
