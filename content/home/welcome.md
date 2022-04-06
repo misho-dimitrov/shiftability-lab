@@ -12,8 +12,7 @@ design:
   background:
     image: synapse.jpg
     text_color_light: false
-hero_media:  <img src="welcome.jpg" width="200" height="100">
-
+hero_media: welcome.jpg 
 ---
 <br>
 
