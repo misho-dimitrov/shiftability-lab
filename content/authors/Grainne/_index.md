@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Mihail 'Misho' Dimitrov
+title: Gráinne McAlonan
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: PhD Student in Pharmacological Neuroimaging of Autism
+role: Professor of Translational Neuroscience
 
 # Organizations/Affiliations
 organizations:
@@ -17,22 +17,17 @@ organizations:
 bio: My research interests include ... .
 
 interests:
-  - Neurodevelopmental and Psychiatric Conditions
-  - Pharmacological Probing
-  - Multi-modal Neuroimaging
-  - Computational Modelling of Brain Phenomena
+  - a
+  - b
+  - c
+  - d
 
 education:
   courses:
-    - course: PhD in Pharmacological Neuroimaging of Autism
-      institution: King's College London
-      year: 2023
-    - course: MSc in Neuroimaging
-      institution: King's College London
-      year: 2018
-    - course: BSc in Neuroscience
-      institution: King's College London
-      year: 2017
+    - course: PhD in ...
+      institution: Un
+      year: 2020
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,9 +61,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Team Members
+  - Principal Investigators
 ---
 
-Misho is a PhD student in pharmacological neuroimaging of autism at the IoPPN Shiftability lab. His research interests include ... . He ... .
+Gráinne is a ... . 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
