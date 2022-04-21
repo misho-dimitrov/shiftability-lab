@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have always been extremely passionate about the study of human behavior and mind. I earned a First-Class honors degree in Psychological Sciences of Personality and Interpersonal Relationships BSc and an MSc in Cognitive Neuroscience and Clinical Neuropsychology. I have been proactive in seeking exposure both in academia and clinical settings across different environments. In fact, I worked as clinical researcher at King's College of London, where I had the possibility to analyse the structural images of the participants with Bipolar Disorder, to investigate the aspects which develop a post-partum psychosis in mothers and where I am currently managing three different pharmacologic MRI studies targeting the serotonin and GABA systems in Autism Spectrum Disorder (as part of EU AIMS-2-TRIAL). I also refined my understanding of the importance of building rapport with clients and their relatives during the ward round at the hospital of Padua, as well as the importance of being accurate, flexible and able to understand needs in people with mental health problems while I worked under the supervision of a senior clinical psychologist. Since early on in my studies, I have gained exposure to a wide range of clinical settings, which made me admire the crucial role of reflective practice within a multi-disciplinary team, and a variety of client groups which refined my understanding of mental health across different age groups and settings. 
+bio: 
 
 interests:
   - a
@@ -58,6 +58,4 @@ user_groups:
   - Current Team Members
 ---
 
-Francesca is a ... . 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have always been extremely passionate about the study of human behavior and mind. I earned a First-Class honors degree in Psychological Sciences of Personality and Interpersonal Relationships BSc and an MSc in Cognitive Neuroscience and Clinical Neuropsychology. I have been proactive in seeking exposure both in academia and clinical settings across different environments. In fact, I worked as clinical researcher at King's College of London, where I had the possibility to analyse the structural images of the participants with Bipolar Disorder, to investigate the aspects which develop a post-partum psychosis in mothers and where I am currently managing three different pharmacologic MRI studies targeting the serotonin and GABA systems in Autism Spectrum Disorder (as part of EU AIMS-2-TRIAL). I also refined my understanding of the importance of building rapport with clients and their relatives during the ward round at the hospital of Padua, as well as the importance of being accurate, flexible and able to understand needs in people with mental health problems while I worked under the supervision of a senior clinical psychologist. Since early on in my studies, I have gained exposure to a wide range of clinical settings, which made me admire the crucial role of reflective practice within a multi-disciplinary team, and a variety of client groups which refined my understanding of mental health across different age groups and settings. 
