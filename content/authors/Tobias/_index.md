@@ -58,6 +58,4 @@ user_groups:
   - Current Team Members
 ---
 
-Tobias is a ... . 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tobias completed his Masters in Neuroscience prior to his role as a Finance Executive and before joining COMPASS Pathways where he is currently a Research Scientist. His research projects involved the investigation of autism spectrum disorder in addition to novel therapeutic interventions in mental health. During his thesis, Tobias used novel genetic engineering techniques to study the role of an autism-associated gene on behaviour.
