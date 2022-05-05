@@ -1,36 +1,41 @@
 ---
-abstract: >
-  There is increasing interest in the use of cannabis and its major
-  non-intoxicating component cannabidiol (CBD) as a treatment for mental health
-  and neurodevelopmental disorders, such as autism spectrum disorder (ASD).
-  However, before launching large-scale clinical trials, a better understanding
-  of the effects of CBD on brain would be desirable. Preclinical evidence
-  suggests that one aspect of the polypharmacy of CBD is that it modulates brain
-  excitatory glutamate and inhibitory γ-aminobutyric acid (GABA) levels,
-  including in brain regions linked to ASD, such as the basal ganglia (BG) and
-  the dorsomedial prefrontal cortex (DMPFC). However, differences in glutamate
-  and GABA pathways in ASD mean that the response to CBD in people with and
-  without ASD may be not be the same. To test whether CBD 'shifts' glutamate and
-  GABA levels; and to examine potential differences in this response in ASD, we
-  used magnetic resonance spectroscopy (MRS) to measure glutamate (Glx =
-  glutamate + glutamine) and GABA+ (GABA + macromolecules) levels in 34 healthy
-  men (17 neurotypicals, 17 ASD). Data acquisition commenced 2 h (peak plasma
-  levels) after a single oral dose of 600 mg CBD or placebo. Test sessions were
-  at least 13 days apart. Across groups, CBD increased subcortical, but
-  decreased cortical, Glx. Across regions, CBD increased GABA+ in controls, but
-  decreased GABA+ in ASD; the group difference in change in GABA + in the DMPFC
-  was significant. Thus, CBD modulates glutamate-GABA systems, but
-  prefrontal-GABA systems respond differently in ASD. Our results do not speak
-  to the efficacy of CBD. Future studies should examine the effects of chronic
-  administration on brain and behaviour, and whether acute brain changes predict
-  longer-term response.
+abstract: Autism spectrum disorder (ASD) is a high cost neurodevelopmental
+  condition; and there are currently no effective pharmacological treatments for
+  its core symptoms. This has led some families and researchers to trial
+  alternative remedies – including the non-intoxicating Cannabis sativa-derived
+  compound cannabidivarin (CBDV). However, how CBDV affects the human brain is
+  unknown. Previous (pre)clinical evidence suggests that CBDV may modulate brain
+  excitatory-inhibitory systems, which are implicated in ASD. Hence, our main
+  aim was to test, for the first time, if CBDV shifts glutamate and/or GABA
+  metabolites – markers of the brain’s primary excitatory and inhibitory system
+  - in both the ‘typical’ and autistic brain. Our subsidiary aim was to
+  determine whether, within ASD, brain responsivity to CBDV challenge is related
+  to baseline biological phenotype. We tested this using a repeated-measures,
+  double-blind, randomized-order, cross-over design. We used magnetic resonance
+  spectroscopy (MRS) to compare glutamate (Glx = glutamate + glutamine) and
+  GABA + (GABA + macromolecules) levels following placebo (baseline) and 600 mg
+  CBDV in 34 healthy men with (n = 17) and without (n = 17) ASD. Data
+  acquisition from regions previously reliably linked to ASD (dorsomedial
+  prefrontal cortex, DMPFC; left basal ganglia, BG) commenced 2 h (peak plasma
+  levels) after placebo/CBDV administration. Where CBDV significantly shifted
+  metabolite levels, we examined the relationship of this change with baseline
+  metabolite levels. Test sessions were at least 13 days apart to ensure CBDV
+  wash-out. CBDV significantly increased Glx in the BG of both groups. However,
+  this impact was not uniform across individuals. In the ASD group, and not in
+  the typically developing controls, the ‘shift’ in Glx correlated negatively
+  with baseline Glx concentration. In contrast, CBDV had no significant impact
+  on Glx in the DMPFC, or on GABA+ in either voxel in either group. Our findings
+  suggest that, as measured by MRS, CBDV modulates the glutamate-GABA system in
+  the BG but not in frontal regions. Moreover, there is individual variation in
+  response depending on baseline biochemistry. Future studies should examine the
+  effect of CBDV on behaviour and if the response to an acute dose of CBDV could
+  predict a potential clinical treatment response in ASD.
 slides: null
 url_pdf: null
 publication_types:
   - "2"
 authors:
-  - Charlotte Marie Pretzsch
-  - Jan Freyberg
+  - Charlotte M Pretzsch
   - Bogdan Voinescu
   - David Lythgoe
   - Jamie Horder
@@ -39,11 +44,11 @@ authors:
   - Laura Ajram
   - Glynis Ivin
   - Martin Heasman
-  - Richard A E Edden
+  - Richard A. E. Edden
   - Steven Williams
-  - Declan G M Murphy
+  - Declan G. M. Murphy
   - Eileen Daly
-  - Gráinne M McAlonan
+  - Gráinne M. McAlonan
 summary: "\n"
 url_dataset: ""
 url_project: ""
@@ -51,13 +56,13 @@ author_notes: []
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Neuropsychopharmacology. 44(8), 1398–1405. (2019)
+publication: Transl Psychiatry 9, 313 (2019)
 featured: false
 date: 2022-01-05T00:00:00.000Z
 url_slides: ""
-title: " Effects of cannabidiol on brain excitation and inhibition systems; a
-  randomised placebo-controlled single dose trial during magnetic resonance
-  spectroscopy in adults with and without autism spectrum disorder "
+title: " Effects of cannabidivarin (CBDV) on brain excitation and inhibition
+  systems in adults with and without Autism Spectrum Disorder (ASD): a single
+  dose trial during magnetic resonance spectroscopy "
 tags: []
 projects: []
 image:
@@ -68,7 +73,7 @@ image:
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1038/s41386-019-0333-8
+doi: https://doi.org/10.1038/s41398-019-0654-8
 ---
 
 {{% callout note %}}
