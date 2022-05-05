@@ -46,7 +46,7 @@ url_source: ""
 url_video: ""
 publication: Neuropsychopharmacol. 45, 2248–2256 (2020)
 featured: false
-date: 2022-01-05T00:00:00.000Z
+date: 2020-01-05T00:00:00.000Z
 url_slides: ""
 title: "Serotonin differentially modulates the temporal dynamics of the limbic
   response to facial emotions in male adults with and without autism spectrum
@@ -58,7 +58,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1038/s41386-020-0693-0

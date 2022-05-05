@@ -58,7 +58,7 @@ url_source: ""
 url_video: ""
 publication: Transl Psychiatry 9, 313 (2019)
 featured: false
-date: 2022-01-05T00:00:00.000Z
+date: 2019-01-05T00:00:00.000Z
 url_slides: ""
 title: " Effects of cannabidivarin (CBDV) on brain excitation and inhibition
   systems in adults with and without Autism Spectrum Disorder (ASD): a single
@@ -70,7 +70,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1038/s41398-019-0654-8

@@ -56,7 +56,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1177%2F02698811221092509

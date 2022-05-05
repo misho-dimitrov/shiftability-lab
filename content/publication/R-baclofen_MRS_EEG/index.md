@@ -60,7 +60,7 @@ author_notes: []
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Science Translational Medicine, 14(626)
+publication: Science Translational Medicine. 14(626). (2022)
 featured: false
 date: 2022-01-05T00:00:00Z
 url_slides: ""
@@ -73,7 +73,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: 
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1126/scitranslmed.abg7859

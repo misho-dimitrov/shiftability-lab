@@ -57,7 +57,7 @@ url_source: ""
 url_video: ""
 publication: Molecular Autism 12, 49 (2021)
 featured: false
-date: 2022-01-05T00:00:00.000Z
+date: 2021-01-05T00:00:00.000Z
 url_slides: ""
 title: Modulation of striatal functional connectivity differences in adults with
   and without autism spectrum disorder in a single-dose randomized trial of
@@ -69,7 +69,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1186/s13229-021-00454-6
