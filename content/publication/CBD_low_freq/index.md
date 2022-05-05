@@ -49,7 +49,7 @@ url_source: ""
 url_video: ""
 publication: Journal of Psychopharmacology. 33(9):1141-1148. (2019)
 featured: false
-date: 2022-01-05T00:00:00.000Z
+date: 2019
 url_slides: ""
 title: " The effect of cannabidiol (CBD) on low-frequency activity and
   functional connectivity in the brain of adults with and without autism
@@ -61,7 +61,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2019
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1177%2F0269881119858306
