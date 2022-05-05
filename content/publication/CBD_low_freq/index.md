@@ -1,27 +1,45 @@
 ---
-abstract: Autism spectrum disorder (ASD) affects over 1:100 of the population
-  and costs the UK more than £32bn and the USA more than $175bn (£104bn)
-  annually. Its core symptoms are social and communication difficulties,
-  repetitive behaviours and sensory hyper- or hypo-sensitivities. A highly
-  diverse phenotypic presentation likely reflects its etiological heterogeneity
-  and makes finding treatment targets for ASD challenging. In addition, there
-  are no means to identify biologically responsive individuals who may benefit
-  from specific interventions. There is hope however, and in this review we
-  consolidate how findings from magnetic resonance spectroscopy (MRS) add to the
-  evidence that differences in the brain's excitatory glutamate and inhibitory
-  γ-aminobutyric acid (GABA) balance may be both a key biomarker and a tractable
-  treatment target in ASD.
+abstract: >-
+  Background:
+
+
+  The potential benefits of cannabis and its major non-intoxicating component cannabidiol (CBD) are attracting attention, including as a potential treatment in neurodevelopmental disorders such as autism spectrum disorder (ASD). However, the neural action of CBD, and its relevance to ASD, remains unclear. We and others have previously shown that response to drug challenge can be measured using functional magnetic resonance imaging (fMRI), but that pharmacological responsivity is atypical in ASD.
+
+  Aims:
+
+
+  We hypothesized that there would be a (different) fMRI response to CBD in ASD.
+
+  Methods:
+
+
+  To test this, task-free fMRI was acquired in 34 healthy men (half with ASD) following oral administration of 600 mg CBD or matched placebo (random order; double-blind administration). The ‘fractional amplitude of low-frequency fluctuations’ (fALFF) was measured across the whole brain, and, where CBD significantly altered fALFF, we tested if functional connectivity (FC) of those regions was also affected by CBD.
+
+  Results:
+
+
+  CBD significantly increased fALFF in the cerebellar vermis and the right fusiform gyrus. However, post-hoc within-group analyses revealed that this effect was primarily driven by the ASD group, with no significant change in controls. Within the ASD group only, CBD also significantly altered vermal FC with several of its subcortical (striatal) and cortical targets, but did not affect fusiform FC with other regions in either group.
+
+  Conclusion:
+
+
+  Our results suggest that, especially in ASD, CBD alters regional fALFF and FC in/between regions consistently implicated in ASD. Future studies should examine if this affects the complex behaviours these regions modulate.
 slides: null
 url_pdf: null
 publication_types:
   - "2"
 authors:
-  - Laura A Ajram
-  - Andreia C Pereira
-  - Alice M S Durieux
-  - Hester E Velthius
-  - Marija M Petrinovic
-  - Grainne M McAlonan
+  - Charlotte M Pretzsch
+  - Bogdan Voinescu
+  - Maria A Mendez
+  - Robert Wichers
+  - Laura Ajram
+  - Glynis Ivin
+  - Martin Heasman
+  - Steven Williams
+  - Declan GM Murphy
+  - Eileen Daly
+  - Gráinne M McAlonan
 summary: "\n"
 url_dataset: ""
 url_project: ""
@@ -29,12 +47,13 @@ author_notes: []
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Prog Neuropsychopharmacol Biol Psychiatry. 89:236-244. (2019)
+publication: Journal of Psychopharmacology. 33(9):1141-1148. (2019)
 featured: false
 date: 2022-01-05T00:00:00.000Z
 url_slides: ""
-title: " The contribution of [1H] magnetic resonance spectroscopy to the study
-  of excitation-inhibition in autism "
+title: " The effect of cannabidiol (CBD) on low-frequency activity and
+  functional connectivity in the brain of adults with and without autism
+  spectrum disorder (ASD)"
 tags: []
 projects: []
 image:
@@ -45,7 +64,7 @@ image:
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1016/j.pnpbp.2018.09.010
+doi: https://doi.org/10.1177%2F0269881119858306
 ---
 
 {{% callout note %}}
