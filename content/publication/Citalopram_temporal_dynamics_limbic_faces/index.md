@@ -1,45 +1,42 @@
 ---
-abstract: Adults with autism spectrum disorder (ASD) are frequently prescribed
-  selective serotonin reuptake inhibitors (SSRIs). However, there is limited
-  evidence to support this practice. Therefore, it is crucial to understand the
-  impact of SSRIs on brain function abnormalities in ASD. It has been suggested
-  that some core symptoms in ASD are underpinned by deficits in executive
-  functioning (EF). Hence, we investigated the role of the SSRI citalopram on EF
-  networks in 19 right-handed adult males with ASD and 19 controls who did not
-  differ in gender, age, IQ or handedness. We performed pharmacological
-  functional magnetic resonance imaging to compare brain activity during two EF
-  tasks (of response inhibition and sustained attention) after an acute dose of
-  20 mg citalopram or placebo using a randomised, double-blind, crossover
-  design. Under placebo condition, individuals with ASD had abnormal brain
-  activation in response inhibition regions, including inferior frontal,
-  precentral and postcentral cortices and cerebellum. During sustained
-  attention, individuals with ASD had abnormal brain activation in middle
-  temporal cortex and (pre)cuneus. After citalopram administration, abnormal
-  brain activation in inferior frontal cortex was ‘normalised’ and most of the
-  other brain functional differences were ‘abolished’. Also, within ASD, the
-  degree of responsivity in inferior frontal and postcentral cortices to SSRI
-  challenge was related to plasma serotonin levels. These findings suggest that
-  citalopram can ‘normalise’ atypical brain activation during EF in ASD. Future
-  trials should investigate whether this shift in the biology of ASD is
-  maintained after prolonged citalopram treatment, and if peripheral measures of
-  serotonin predict treatment response.
+abstract: Emotion processing—including signals from facial expressions—is often
+  altered in individuals with autism spectrum disorder (ASD). The biological
+  basis of this is poorly understood but may include neurochemically mediated
+  differences in the responsivity of key ‘limbic’ regions (including amygdala,
+  ventromedial prefrontal cortex (vmPFC) and nucleus accumbens (NAc)). Emerging
+  evidence also suggests that ASD may be a disorder of brain temporal dynamics.
+  Moreover, serotonin (5-HT) has been shown to be a key regulator of both
+  facial-emotion processing and brain dynamics, and 5-HT abnormalities have been
+  consistently implicated in ASD. To date, however, no one has examined how 5-HT
+  influences the dynamics of facial-emotion processing in ASD. Therefore, we
+  compared the influence of 5-HT on the responsivity of brain dynamics during
+  facial-emotion processing in individuals with and without ASD. Participants
+  completed a facial-emotion processing fMRI task at least 8 days apart using a
+  randomised double-blind crossover design. At each visit they received either a
+  single 20-mg oral dose of the selective serotonin reuptake inhibitor (SSRI)
+  citalopram or placebo. We found that citalopram (which increases levels of
+  5-HT) caused sustained activation in key limbic regions during processing of
+  negative facial emotions in adults with ASD—but not in neurotypical adults.
+  The neurotypical adults’ limbic response reverted more rapidly to baseline
+  following a 5-HT-challenge. Our results suggest that serotonergic homoeostatic
+  control of the temporal dynamics in limbic regions is altered in adults with
+  ASD, and provide a fresh perspective on the biology of ASD.
 slides: null
 url_pdf: null
 publication_types:
   - "2"
 authors:
-  - Robert H. Wichers
+  - Nichol M. L. Wong
   - James L. Findon
-  - Auke Jelsma
+  - Robert H. Wichers
   - Vincent Giampietro
   - Vladimira Stoencheva
-  - Dene M. Robertson
   - Clodagh M. Murphy
-  - Grainne McAlonan
+  - Sarah Blainey
   - Christine Ecker
-  - Katya Rubia
-  - Declan G. M. Murphy
-  - Eileen M. Daly
+  - Declan G. Murphy
+  - Grainne M. McAlonan
+  - Eileen Daly
 summary: "\n"
 url_dataset: ""
 url_project: ""
@@ -47,12 +44,13 @@ author_notes: []
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Transl Psychiatry 9, 286 (2019)
+publication: Neuropsychopharmacol. 45, 2248–2256 (2020)
 featured: false
 date: 2022-01-05T00:00:00.000Z
 url_slides: ""
-title: Modulation of brain activation during executive functioning in autism
-  with citalopram
+title: "Serotonin differentially modulates the temporal dynamics of the limbic
+  response to facial emotions in male adults with and without autism spectrum
+  disorder (ASD): a randomised placebo-controlled single-dose crossover trial"
 tags: []
 projects: []
 image:
@@ -63,7 +61,7 @@ image:
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1038/s41398-019-0641-0
+doi: https://doi.org/10.1038/s41386-020-0693-0
 ---
 
 {{% callout note %}}
