@@ -16,7 +16,7 @@ content:
   # Contact (edit or remove options as required)
 
   email: mrs@kcl.ac.uk
-  phone: 888 888 88 88
+  #phone: 888 888 88 88
   address:
     street: 16 De Crespigny Park
     city: London
@@ -46,10 +46,10 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
 design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Please don't hesitate to get in touch if you're interested in volunteering for one of our studies, collaborating on a research project or simply curious about our work!
