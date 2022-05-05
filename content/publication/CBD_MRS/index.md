@@ -1,43 +1,47 @@
 ---
-abstract: >-
-  Background:
-
-
-  The potential benefits of cannabis and its major non-intoxicating component cannabidiol (CBD) are attracting attention, including as a potential treatment in neurodevelopmental disorders such as autism spectrum disorder (ASD). However, the neural action of CBD, and its relevance to ASD, remains unclear. We and others have previously shown that response to drug challenge can be measured using functional magnetic resonance imaging (fMRI), but that pharmacological responsivity is atypical in ASD.
-
-  Aims:
-
-
-  We hypothesized that there would be a (different) fMRI response to CBD in ASD.
-
-  Methods:
-
-
-  To test this, task-free fMRI was acquired in 34 healthy men (half with ASD) following oral administration of 600 mg CBD or matched placebo (random order; double-blind administration). The ‘fractional amplitude of low-frequency fluctuations’ (fALFF) was measured across the whole brain, and, where CBD significantly altered fALFF, we tested if functional connectivity (FC) of those regions was also affected by CBD.
-
-  Results:
-
-
-  CBD significantly increased fALFF in the cerebellar vermis and the right fusiform gyrus. However, post-hoc within-group analyses revealed that this effect was primarily driven by the ASD group, with no significant change in controls. Within the ASD group only, CBD also significantly altered vermal FC with several of its subcortical (striatal) and cortical targets, but did not affect fusiform FC with other regions in either group.
-
-  Conclusion:
-
-
-  Our results suggest that, especially in ASD, CBD alters regional fALFF and FC in/between regions consistently implicated in ASD. Future studies should examine if this affects the complex behaviours these regions modulate.
+abstract: >
+  There is increasing interest in the use of cannabis and its major
+  non-intoxicating component cannabidiol (CBD) as a treatment for mental health
+  and neurodevelopmental disorders, such as autism spectrum disorder (ASD).
+  However, before launching large-scale clinical trials, a better understanding
+  of the effects of CBD on brain would be desirable. Preclinical evidence
+  suggests that one aspect of the polypharmacy of CBD is that it modulates brain
+  excitatory glutamate and inhibitory γ-aminobutyric acid (GABA) levels,
+  including in brain regions linked to ASD, such as the basal ganglia (BG) and
+  the dorsomedial prefrontal cortex (DMPFC). However, differences in glutamate
+  and GABA pathways in ASD mean that the response to CBD in people with and
+  without ASD may be not be the same. To test whether CBD 'shifts' glutamate and
+  GABA levels; and to examine potential differences in this response in ASD, we
+  used magnetic resonance spectroscopy (MRS) to measure glutamate (Glx =
+  glutamate + glutamine) and GABA+ (GABA + macromolecules) levels in 34 healthy
+  men (17 neurotypicals, 17 ASD). Data acquisition commenced 2 h (peak plasma
+  levels) after a single oral dose of 600 mg CBD or placebo. Test sessions were
+  at least 13 days apart. Across groups, CBD increased subcortical, but
+  decreased cortical, Glx. Across regions, CBD increased GABA+ in controls, but
+  decreased GABA+ in ASD; the group difference in change in GABA + in the DMPFC
+  was significant. Thus, CBD modulates glutamate-GABA systems, but
+  prefrontal-GABA systems respond differently in ASD. Our results do not speak
+  to the efficacy of CBD. Future studies should examine the effects of chronic
+  administration on brain and behaviour, and whether acute brain changes predict
+  longer-term response.
 slides: null
 url_pdf: null
 publication_types:
   - "2"
 authors:
-  - Charlotte M Pretzsch
+  - Charlotte Marie Pretzsch
+  - Jan Freyberg
   - Bogdan Voinescu
-  - Maria A Mendez
+  - David Lythgoe
+  - Jamie Horder
+  - Maria Andreina Mendez
   - Robert Wichers
   - Laura Ajram
   - Glynis Ivin
   - Martin Heasman
+  - Richard A E Edden
   - Steven Williams
-  - Declan GM Murphy
+  - Declan G M Murphy
   - Eileen Daly
   - Gráinne M McAlonan
 summary: "\n"
@@ -47,13 +51,13 @@ author_notes: []
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Journal of Psychopharmacology. 33(9):1141-1148. (2019)
+publication: Neuropsychopharmacology. 44(8), 1398–1405. (2019)
 featured: false
 date: 2022-01-05T00:00:00.000Z
 url_slides: ""
-title: " The effect of cannabidiol (CBD) on low-frequency activity and
-  functional connectivity in the brain of adults with and without autism
-  spectrum disorder (ASD)"
+title: " Effects of cannabidiol on brain excitation and inhibition systems; a
+  randomised placebo-controlled single dose trial during magnetic resonance
+  spectroscopy in adults with and without autism spectrum disorder "
 tags: []
 projects: []
 image:
@@ -64,7 +68,7 @@ image:
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1177%2F0269881119858306
+doi: https://doi.org/10.1038/s41386-019-0333-8
 ---
 
 {{% callout note %}}
