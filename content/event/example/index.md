@@ -1,10 +1,10 @@
 ---
 title: Coming Soon..
 
-event: Coming Soon..
+event: TBA
 #event_url: https://example.org
 
-location: ioPPN
+location: IoPPN
 address:
   street: 16 De Crespigny Park
   city: London
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 't: [**Unsplash**](/content/event/example/coming-soon.png)'
+  #caption: 't: [**Unsplash**](/content/event/example/coming-soon.png)'
   focal_point: Right
 
 url_code: ''
@@ -54,10 +54,10 @@ slides:
 projects:
 ---
 
-#Slides can be added in a few ways:
+# Slides can be added in a few ways:
 
 # - **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+# - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+# - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-#Further event details, including page elements such as image galleries, can be added to the body of this page.
+# Further event details, including page elements such as image galleries, can be added to the body of this page.
