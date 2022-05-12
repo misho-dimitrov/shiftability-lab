@@ -31,8 +31,7 @@ tags: []
 featured: false
 
 image:
-  coming-soon.png
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 't: [**Unsplash**](/content/event/example/coming-soon.png)'
   focal_point: Right
 
 url_code: ''
