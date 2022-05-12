@@ -1,57 +1,32 @@
 ---
-title: Coming Soon..
-
-event: TBA
-#event_url: https://example.org
-
-location: IoPPN
+abstract: "#"
+slides: null
+url_pdf: ""
+summary: Coming Soon
+date_end: 2022-05-13T15:00:07.311Z
+event_url: "#"
+authors: []
+url_video: ""
+date: 2022-05-12T15:00:07.490Z
+featured: false
+url_slides: ""
 address:
   street: 16 De Crespigny Park
   city: London
-  region: 
+  region: null
   postcode: SE5 8AF
   country: United Kingdom
-
-summary: Coming Soon
-#abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-#date: '2030-06-01T13:00:00Z'
-#date_end: '2030-06-01T15:00:00Z'
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-#publishDate: '2017-01-01T00:00:00Z'
-
-authors: []
+title: Coming Soon..
+location: IoPPN
+event: TBA
+publishDate: 2022-05-12T15:00:07.574Z
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
+projects: null
 image:
-  #caption: 't: [**Unsplash**](/content/event/example/coming-soon.png)'
   focal_point: Right
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides:
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
+  filename: featured.png
+url_code: ""
+all_day: false
 ---
 
 <!---
