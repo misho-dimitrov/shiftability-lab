@@ -3,11 +3,11 @@ abstract: "#"
 slides: null
 url_pdf: ""
 summary: Coming Soon
-date_end: 2022-05-13T15:00:07.311Z
+#date_end: 2022-05-13T15:00:07.311Z
 event_url: "#"
 authors: []
 url_video: ""
-date: 2022-05-12T15:00:07.490Z
+#date: 2022-05-12T15:00:07.490Z
 featured: false
 url_slides: ""
 address:
@@ -19,7 +19,7 @@ address:
 title: Coming Soon..
 location: IoPPN
 event: TBA
-publishDate: 2022-05-12T15:00:07.574Z
+#publishDate: 2022-05-12T15:00:07.574Z
 tags: []
 projects: null
 image:
