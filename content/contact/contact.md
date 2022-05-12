@@ -52,4 +52,4 @@ design:
   columns: '1'
 ---
 
-<span style="align=center; font-size:20.0pt"> Please don't hesitate to get in touch if you're interested in volunteering for one of our studies, collaborating on a research project or simply curious about our work! </span>
+<span align="center" style="font-size:20.0pt"> Please don't hesitate to get in touch if you're interested in volunteering for one of our studies, collaborating on a research project or simply curious about our work! </span>
