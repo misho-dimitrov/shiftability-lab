@@ -6,7 +6,7 @@ title: Mihail 'Misho' Dimitrov
 superuser: true
 
 # Role/position
-role: PhD Student in Pharmacological Neuroimaging of Autism
+role: PhD Student / Graduate Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ... .
+#bio: My research interests include ... .
 
 interests:
   - Neurodevelopmental and Psychiatric Conditions
@@ -72,6 +72,7 @@ user_groups:
   - Current Team Members
 ---
 
-Misho is a PhD student in pharmacological neuroimaging of autism at the IoPPN Shiftability lab. His research interests include ... . He ... .
+Misho is a PhD student at the Department of Forensic and Neurodevelopmental Sciences, IoPPN. He is interested in neurodevelopmental and psychiatric conditions and how they could be studied and modelled using tools such as multimodal pharmacological neuroimaging and advanced computational and statistical methods. He is also curious about how this knowledge could be translated into real-world technologies that could be introduced in the clinical domain as well as in people's every-day life. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Misho is also a graduate teaching assistant and an associate fellow of the Higher Education Academy. Over the past 3 years, he has contributed to several undergraduate and postgraduate courses at King's, including as a neuroanatomy and neurophysiology demonstrator for BSc Neuroscience, Year I/II Medicine and Dental Medicine; research methods and statistics demonstrator as well as chief tutor for MSc Clinical Neurodevelopmental Sciences.
+
