@@ -16,11 +16,13 @@ design:
 ---
 <br>
 
-## <span style="color:white">  ABOUT </span>
+<section>
+<h2> <span style="color:white">  ABOUT </span> </h2>
 
-#### <span style="color:white"> Our aim </span>
+<h4> <span style="color:white"> Our aim </span> </h4>
 
-<span style="text-align: justify; display:block;"> Our brains are constantly at work, even at rest. Our aim is to better understand dynamic brain function, including in neurodiverse individuals. We are working with adults (ages 18 to 65) from various backgrounds and communities. We use drugs which target different chemical systems to understand how brain function is regulated. We call these studies ‘Shiftability’ studies because they measure what shifts or changes in the brain in response to a single dose of a drug. </span>
+<p> <div style="text-align: justify"> Our brains are constantly at work, even at rest. Our aim is to better understand dynamic brain function, including in neurodiverse individuals. We are working with adults (ages 18 to 65) from various backgrounds and communities. We use drugs which target different chemical systems to understand how brain function is regulated. We call these studies ‘Shiftability’ studies because they measure what shifts or changes in the brain in response to a single dose of a drug. </div>
+</p>
 
 <!--- <span style="color:white; font-size:14.0pt"> </span> -->  
 
@@ -32,3 +34,4 @@ design:
 
 #### <span style="color:white"> Making a difference  </span>
 <span style="color:white; font-size:14.0pt"> We hope that our projects will expedite the discovery and development of novel strategies to tackle some of the difficulties that some people with conditions like autism experience daily. We hope that this provides more options for people to support their mental health and well-being while also preserving every person’s strengths and skills. </span>
+</section>
