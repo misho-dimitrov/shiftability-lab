@@ -19,7 +19,17 @@ hero_media: funders.png
 ## <span style="color:white">  ABOUT </span>
 
 #### <span style="color:white"> Our aim </span>
-<span style="color:white; font-size:14.0pt"> Our brains are constantly at work, even at rest. Our aim is to better understand dynamic brain function, including in neurodiverse individuals. We are working with adults (ages 18 to 65) from various backgrounds and communities. We use drugs which target different chemical systems to understand how brain function is regulated. We call these studies ‘Shiftability’ studies because they measure what shifts or changes in the brain in response to a single dose of a drug.  </span>
+div {
+  text-align: justify;
+}
+
+div:after {
+  content: "Our brains are constantly at work, even at rest. Our aim is to better understand dynamic brain function, including in neurodiverse individuals. We are working with adults (ages 18 to 65) from various backgrounds and communities. We use drugs which target different chemical systems to understand how brain function is regulated. We call these studies ‘Shiftability’ studies because they measure what shifts or changes in the brain in response to a single dose of a drug.";
+  display: inline-block;
+  width: 100\%;
+}
+
+<!--- <span style="color:white; font-size:14.0pt"> </span> -->  
 
 #### <span style="color:white"> Our methods </span>
 <span style="color:white; font-size:14.0pt"> Magnetic Resonance Imaging (MRI) scanning is a safe way of producing detailed images of the brain using magnetism. It does not use any form of ionising radiation (unlike X-ray) or radioactive substances (unlike PET imaging). Electroencephalography (EEG) is another safe way to study the brain by recording brain signals moment by moment. We use these tools to capture the response to single doses of drugs which briefly shift brain signalling. The drugs used in our projects have been extensively tested and found to be generally safe. For example, they act on the serotonin brain chemical system (citalopram and soon psilocybin), the GABA chemical system (arbaclofen) and/or have multiple brain targets (the novel antidepressant tianeptine, cannabidiol). </span>
