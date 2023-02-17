@@ -21,7 +21,7 @@ design:
 
 <h4> <span style="color:white"> Our aim </span> </h4>
 
-<p> <div style="text-align: justify; text-justify: inter-word; text-align-last:center; width: 80\%; color:white; font-size:14.0pt"> Our brains are constantly at work, even at rest. Our aim is to better understand dynamic brain function, including in neurodiverse individuals. We are working with adults (ages 18 to 65) from various backgrounds and communities. We use drugs which target different chemical systems to understand how brain function is regulated. We call these studies ‘Shiftability’ studies because they measure what shifts or changes in the brain in response to a single dose of a drug. </div>
+<p> <div style="text-align: justify; text-justify: inter-word; text-align-last:center; margin-right: 150px; width: 100\%; color:white; font-size:14.0pt"> Our brains are constantly at work, even at rest. Our aim is to better understand dynamic brain function, including in neurodiverse individuals. We are working with adults (ages 18 to 65) from various backgrounds and communities. We use drugs which target different chemical systems to understand how brain function is regulated. We call these studies ‘Shiftability’ studies because they measure what shifts or changes in the brain in response to a single dose of a drug. </div>
 </p>
 
 <!--- <span style="color:white; font-size:14.0pt"> </span> -->  
