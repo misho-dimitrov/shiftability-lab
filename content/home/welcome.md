@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: synapse.jpg
+    #image: synapse.jpg
     text_color_light: false
 #hero_media: funders.png 
 ---
