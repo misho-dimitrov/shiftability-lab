@@ -23,6 +23,7 @@ hero_media: funders.png
 SummaryDiv {
   text-align: justify;
   font-size: 14.0vw;
+  inter-character;
 }
 </style>
 
