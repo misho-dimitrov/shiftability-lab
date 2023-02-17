@@ -2,7 +2,7 @@
 widget: hero
 widget_id: Description
 headless: true
-weight: 40
+weight: 10
 title: <span style="color:white"> Brain Dynamics and Diversity Research Group </span>
 active: true
 design:
@@ -20,7 +20,7 @@ design:
 
 #### <span style="color:white"> Our aim </span>
 
-<div style="text-align: justify"> Our brains are constantly at work, even at rest. Our aim is to better understand dynamic brain function, including in neurodiverse individuals. We are working with adults (ages 18 to 65) from various backgrounds and communities. We use drugs which target different chemical systems to understand how brain function is regulated. We call these studies ‘Shiftability’ studies because they measure what shifts or changes in the brain in response to a single dose of a drug. </div>
+<span style="text-align: justify; display:block;"> Our brains are constantly at work, even at rest. Our aim is to better understand dynamic brain function, including in neurodiverse individuals. We are working with adults (ages 18 to 65) from various backgrounds and communities. We use drugs which target different chemical systems to understand how brain function is regulated. We call these studies ‘Shiftability’ studies because they measure what shifts or changes in the brain in response to a single dose of a drug. </span>
 
 <!--- <span style="color:white; font-size:14.0pt"> </span> -->  
 
