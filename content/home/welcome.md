@@ -12,8 +12,7 @@ design:
   background:
     image: synapse.jpg
     text_color_light: false
-    #blend-mode:darken
-    color: rgba(255,255,255,0.6)
+    color: transparent
 #hero_media: funders.png 
 ---
 <br>
