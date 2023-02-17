@@ -2,7 +2,7 @@
 widget: hero
 widget_id: Description
 headless: true
-weight: 10
+weight: 40
 title: <span style="color:white"> Brain Dynamics and Diversity Research Group </span>
 active: true
 design:
