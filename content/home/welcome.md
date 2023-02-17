@@ -12,6 +12,7 @@ design:
   background:
     image: synapse.jpg
     text_color_light: false
+    opacity: 0.5
 #hero_media: funders.png 
 ---
 <br>
