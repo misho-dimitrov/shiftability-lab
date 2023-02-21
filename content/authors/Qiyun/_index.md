@@ -6,7 +6,7 @@ title: Qiyun Huang
 superuser: false
 
 # Role/position
-role: Research Associate
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -14,19 +14,18 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ... .
+#bio: My research interests include ... .
 
 interests:
-  - a
-  - b
-  - c
-  - d
+  - Discovering and validating EEG biomarkers across age groups of ASD
+  - Understanding how EEG biomarkers relate to outcome in autistic brain in response to candidate treatment and underpinning mechanisms
+  - Developing novel digital-pharmacological tools to stratify autistic individuals and identify individuals most likely to respond to potential treatments
 
-education:
-  courses:
-    - course: PhD in ...
-      institution: Un
-      year: 20
+#education:
+#  courses:
+#    - course: PhD in ...
+#      institution: Un
+#      year: 20
 
 
 # Social/Academic Networking
@@ -37,6 +36,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:qiyun.huang@kcl.ac.uk'
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Qiyun-Huang-3
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,6 +57,6 @@ user_groups:
   - Current Team Members
 ---
 
-Qiyun is a ... . 
+I joined the Department of Forensic and Neurodevelopmental Sciences, IoPPN, KCL as a postdoctoral research associate In January 2020. My work focuses on discovering and validating EEG biomarkers across age groups in autism.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I received my PhD from South China University of Technology (2019), MSc from University of Southern California (2015) and BSc from Beihang University (2013).
