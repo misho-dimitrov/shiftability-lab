@@ -31,7 +31,7 @@ education:
       institution: Vrije Universiteit Amsterdam
       year: 2015
     - course: MSc in Interdisciplinary Lifesciences
-      institution: Vrije Universiteit Amsterdam
+      institution: Université Paris Cité
       year: 2012
 
 
