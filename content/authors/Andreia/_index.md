@@ -6,7 +6,7 @@ title: Andreia Carvalho Pereira
 superuser: false
 
 # Role/position
-role: Research Associate
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
