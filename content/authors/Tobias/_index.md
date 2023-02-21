@@ -6,28 +6,31 @@ title: Tobias Whelan
 superuser: false
 
 # Role/position
-role: PhD Student in ...
+role: PhD Student / Research Scientist
 
 # Organizations/Affiliations
 organizations:
-  - name: Institute of Psychiatry, Psychology and Neuroscience, King's College London / COMPASS Pathways plc
+  - name: Institute of Psychiatry, Psychology and Neuroscience, King's College London
     url: ''
-
+  - name: COMPASS Pathways plc
+  
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ... .
+#bio: My research interests include ... .
 
-interests:
-  - a
-  - b
-  - c
-  - d
+#interests:
+#  - a
+#  - b
+#  - c
+#  - d
 
 education:
   courses:
-    - course: PhD in ...
-      institution: Un
-      year: 20
-
+    - course: PhD
+      institution: King's College London
+      year: 2025
+    - course: MSci in Neuroscience
+      institution: University of Southampton
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -58,4 +61,6 @@ user_groups:
   - Current Team Members
 ---
 
-Tobias completed his Masters in Neuroscience prior to his role as a Finance Executive and before joining COMPASS Pathways where he is currently a Research Scientist. His research projects involved the investigation of autism spectrum disorder in addition to novel therapeutic interventions in mental health. During his thesis, Tobias used novel genetic engineering techniques to study the role of an autism-associated gene on behaviour.
+I completed my Masters in Neuroscience prior to my role as a Finance Executive and before joining COMPASS Pathways where I am currently a Research Scientist. My research projects involved the investigation of autism in addition to novel therapeutic interventions in mental health. During my thesis, I used novel genetic engineering techniques to study the role of an autism-associated gene on behaviour.
+
+<!--- PhD... ---->
