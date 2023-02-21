@@ -62,3 +62,11 @@ highlight_name: false
 user_groups:
   - Principal Investigators
 ---
+
+I completed my Bachelor degree in Chemistry at Northern Kentucky University and then worked at the Laboratory of Neuroscience at the US National Institutes of Health. I started working at the Institute of Psychiatry in 1997 and was awarded a PhD in 2014. 
+
+My main research interests are in the field of neurodevelopmental disorders. Currently, I am leading a pharmaco-challenge of the serotonin system in Autism Spectrum Disorder. This involves neuroimaging using functional MRI. 
+
+I am the programme lead on the MSc in Clinical Neurodevelopmental Science. 
+
+I recently co-edited the "Serotonin System: History, Neuropharmacology and Pathology" with Dr Mark Tricklebank.
