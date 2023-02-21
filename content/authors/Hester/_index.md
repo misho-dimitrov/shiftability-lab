@@ -6,27 +6,33 @@ title: Hester Velthuis
 superuser: false
 
 # Role/position
-role: PhD Student in ... / Medical Doctor
+role: PhD Student / Medical Doctor
 
 # Organizations/Affiliations
 organizations:
-  - name: Institute of Psychiatry, Psychology and Neuroscience, King's College London / Erasmus MC, Rotterdam, Netherlands
+  - name: Institute of Psychiatry, Psychology and Neuroscience, King's College London
     url: ''
+  - name: Levvel, Amsterdam, Netherlands
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ... .
+#bio: My research interests include ... .
 
 interests:
-  - a
-  - b
-  - c
-  - d
+  - Psychiatry
+  - Neuroscience
+  - Autism
 
 education:
   courses:
-    - course: PhD in ...
-      institution: Un
-      year: 20
+    - course: PhD
+      institution: King's College London
+      year: 2023
+    - course: MD
+      institution: Vrije Universiteit Amsterdam
+      year: 2015
+    - course: MSc in Interdisciplinary Lifesciences
+      institution: Vrije Universiteit Amsterdam
+      year: 2012
 
 
 # Social/Academic Networking
@@ -64,6 +70,7 @@ user_groups:
   - Current Team Members
 ---
 
-Hester is a ... . 
+I started working at the FANS department at the IoPPN, King’s College London as a Clinical Research Worker in November 2016. Currently, I am working on my PhD project investigating the role of cerebral GABAergic circuitry in the Excitation-Inhibition balance in autistic adults.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Previously, I have obtained an MSc in Medicine from the Free University of Amsterdam in the Netherlands and a Research MSc in Life Sciences from the Paris Descartes University, Centre for Interdisciplinary Research in France.  
+
