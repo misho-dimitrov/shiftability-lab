@@ -28,7 +28,7 @@ hero_media: funders.png
 </p>
 
 <h4> <span style="color:white"> Our collaborations </span> </h4>
-<p> <div style="text-align: justify; text-justify: inter-word; margin-right: -640px; width: 100\%; color:white; font-size:14.0pt"> As part of the AIMS-2-TRIALS project - the largest mental health study in Europe – we collaborate with an international network of scientists to gain fresh insights regarding the structure, function and chemistry of neurodiverse conditions such as autism. Everyone who is neurodiverse is different and we want to understand what biology is shared and what is unique to each individual. </div>
+<p> <div style="text-align: justify; text-justify: inter-word; margin-right: -640px; width: 100\%; color:white; font-size:14.0pt"> As part of the AIMS-2-TRIALS project (https://www.aims-2-trials.eu/), we collaborate with an international network of scientists to gain fresh insights regarding the structure, function and chemistry of neurodivergent conditions such as autism. Everyone who is neurodivergent is different and we want to understand what biology is shared and what is unique to each individual. </div>
 </p>
 
 <h4> <span style="color:white"> Making a difference  </span> </h4>
