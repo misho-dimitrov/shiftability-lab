@@ -14,20 +14,26 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ... .
+#bio: My research interests include ... .
 
 interests:
-  - a
-  - b
-  - c
-  - d
+  - Autism
+  - Neurochemistry
+  - Electrophysiology
+  - Psychophysics
+  - Pharmacological neuroimaging
 
 education:
   courses:
     - course: PhD in Neuroscience
       institution: King's College London
       year: 2021
-
+    - course: MSc in Cell and Molecular Biology
+      institution: University of Coimbra
+      #year: 
+    - course: BSc in Biology
+      institution: University of Coimbra
+      #year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,6 +67,8 @@ user_groups:
   - Past Team Members
 ---
 
-Andreia is a ... . 
+Andreia Pereira is currently a postdoc at the lab of Prof. Miguel Castelo-Branco - the Coimbra Institute for Biomedical Imaging and Translational Research (CIBIT) from the University of Coimbra, Portugal. She is working in the AIMS-2-TRIALS, an international autism research consortium. Andreia has recently completed her PhD investigating the neurobiological responsivity to single doses of the GABA­B receptor agonist arbaclofen in autistic and neurotypical adults, work done under the supervision of Prof. Grainne McAlonan, Dr. Eileen Daly, and Prof. Declan Murphy at the Institute of Psychiatry, Psychology and Neuroscience (IoPPN), UK. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Her research seeks to better understand the neurobiological mechanisms underlying autism to identify biomarkers that may lead to tailored pharmacological therapies. In particular, she is involved in studies using multimodal neuroimaging techniques as well as drug challenges to probe the living human brain. She has previously completed her BSc in Biology and MSc in Cell and Molecular Biology at the University of Coimbra, Portugal. 
+
+Website: https://cibit-uc.github.io/wiki/people/andreiacpereira 
