@@ -18,9 +18,9 @@ organizations:
 
 interests:
   - Neurodevelopmental and Psychiatric Conditions
-  - Pharmacological Probing
-  - Multi-modal Neuroimaging
-  - Computational Modelling of Brain Phenomena
+  - Pharmacology
+  - Neuroimaging
+  - Computational Neuroscience
 
 education:
   courses:
