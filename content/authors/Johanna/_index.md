@@ -58,4 +58,4 @@ user_groups:
   - Current Team Members
 ---
 
-#I joined King’s College London in 2014 to work on the Brain Imaging in Babies study, where I gained experience in fetal, #neonatal and infant scanning.    
+<!---I joined King’s College London in 2014 to work on the Brain Imaging in Babies study, where I gained experience in fetal, neonatal and infant scanning. ---->
