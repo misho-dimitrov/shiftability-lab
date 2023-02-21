@@ -22,13 +22,13 @@ interests:
   - Serotonin
   - Pharmaco-challenge studies using brain imaging  
 
-education:
-  courses:
-    - course: PhD
-      institution: King's College London
-      year: 2014
-    - course: BSc in Chemistry
-      institution: Northern Kentucky University
+#education:
+#  courses:
+#    - course: PhD
+#      institution: King's College London
+#      year: 2014
+#    - course: BSc in Chemistry
+#      institution: Northern Kentucky University
       #year: 
 
 # Social/Academic Networking
