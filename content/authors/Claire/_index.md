@@ -6,7 +6,7 @@ title: Claire Ellis
 superuser: false
 
 # Role/position
-role: PhD Student in ...
+role: PhD Student / Graduate Teaching Assistant 
 
 # Organizations/Affiliations
 organizations:
@@ -14,19 +14,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ... .
+#bio: My research interests include ... .
 
 interests:
-  - a
-  - b
-  - c
-  - d
+  - Autism and co-occurring conditions
+  - EEG
+  - Neuropharmacology
 
 education:
   courses:
-    - course: PhD in ...
-      institution: Un
-      year: 2020
+    - course: PhD
+      institution: King's College London
+      year: 2023
+    - course: MSc in Psychological Research Methods
+      institution: University of Sheffield
+      year: 2016
+    - course: BSc in Psychology
+      institution: University of Sheffield
+      #year: 
 
 
 # Social/Academic Networking
@@ -37,6 +42,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:claire.l.ellis@kcl.ac.uk'
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/scientific-contributions/Claire-Ellis-2222917575
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/claire-louise-ellis-5b2893224/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ClaireLEllis
@@ -58,6 +69,9 @@ user_groups:
   - Current Team Members
 ---
 
-Claire is a ... . 
+I joined the Department of Forensic and Neurodevelopmental Sciences at King's College London in 2016 as a Research Assistant on the EU-AIMS Longitudinal European Autism Project (LEAP).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Since then, I have worked on two other research assistant posts at the SGDP (KCL) and at Birkbeck, University of London before starting my PhD back at the Department of Forensic and Neurodevelopmental Sciences in 2019. My PhD focuses on the investigation of novel proxy markers of excitatory- inhibitory (E-I) signalling using human EEG.
+
+Prior to joining KCL I completed my BSc in Psychology and MSc in Psychological Research Methods at the University of Sheffield.
+
