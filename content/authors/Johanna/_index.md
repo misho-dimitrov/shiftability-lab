@@ -14,19 +14,19 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ... .
+#bio: My research interests include ... .
 
 interests:
-  - a
-  - b
-  - c
-  - d
+  - Brain development
+#  - b
+#  - c
+#  - d
 
-education:
-  courses:
-    - course: ... in ...
-      institution: Un
-      year: 2020
+#education:
+#  courses:
+#    - course: ... in ...
+#      institution: Un
+#      year: 2020
 
 
 # Social/Academic Networking
@@ -37,6 +37,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:johanna.kangas@kcl.ac.uk'
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/scientific-contributions/Johanna-Kangas-2155668585
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,6 +58,4 @@ user_groups:
   - Current Team Members
 ---
 
-Johanna is a ... . 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+#I joined King’s College London in 2014 to work on the Brain Imaging in Babies study, where I gained experience in fetal, #neonatal and infant scanning.    
