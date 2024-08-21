@@ -6,7 +6,7 @@ title: Nermin Khalil
 superuser: false
 
 # Role/position
-role: Clinical Research Worker; Consultant Child and Adolescent Psychiatrist at the South London and Maudsley NHS Trust
+role: Clinical Research Worker; Consultant Child and Adolescent Psychiatrist
 
 # Organizations/Affiliations
 organizations:
