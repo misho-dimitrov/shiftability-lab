@@ -14,31 +14,6 @@ design:
     text_color_light: false
 hero_media: funders.png 
 ---
-<head>
-  <style>
-    .background-overlay::before {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100\%;
-        height: 100\%;
-        background: rgba(0, 0, 0, 0.5); /* Black overlay with 50\% opacity */
-        z-index: 1;
-    }
-
-    .widget-hero {
-        position: relative;
-        z-index: 2; /* Ensure content is above the overlay */
-    }
-
-    .widget-hero .hero-media {
-        z-index: 2; /* Ensure the media image is above the overlay */
-    }
-  </style>
-</head>
-
-
 <br>
 
 <section>
