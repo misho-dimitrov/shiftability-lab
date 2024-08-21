@@ -8,12 +8,37 @@ active: true
 design:
   columns: "1"
   css_style: null
-  css_class: null
+  css_class: "background-overlay"
   background:
     image: synapse.jpg
     text_color_light: false
 hero_media: funders.png 
 ---
+<head>
+  <style>
+    .background-overlay::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100\%;
+        height: 100\%;
+        background: rgba(0, 0, 0, 0.5); /* Black overlay with 50\% opacity */
+        z-index: 1;
+    }
+
+    .widget-hero {
+        position: relative;
+        z-index: 2; /* Ensure content is above the overlay */
+    }
+
+    .widget-hero .hero-media {
+        z-index: 2; /* Ensure the media image is above the overlay */
+    }
+  </style>
+</head>
+
+
 <br>
 
 <section>
@@ -24,7 +49,7 @@ hero_media: funders.png
 </p>
 
 <h4> <span style="color:white"> Our methods </span> </h4>
-<p> <div style="text-align: justify; text-justify: inter-word; margin-right: -640px; width: 100\%; color:white; font-size:14.0pt"> Magnetic Resonance Imaging (MRI) scanning is a safe way of producing detailed images of the brain using magnetism. It does not use any form of ionising radiation (unlike X-ray) or radioactive substances (unlike PET imaging). Electroencephalography (EEG) is another safe way to study the brain by recording brain signals moment by moment. We use these tools to capture the response to single doses of drugs which briefly shift brain signalling. The drugs used in our projects have been extensively tested and found to be generally safe. For example, they act on the serotonin brain chemical system (citalopram and soon psilocybin), the GABA chemical system (arbaclofen) and/or have multiple brain targets (the novel antidepressant tianeptine, cannabidiol). </div>
+<p> <div style="text-align: justify; text-justify: inter-word; margin-right: -640px; width: 100\%; color:white; font-size:14.0pt"> Magnetic Resonance Imaging (MRI) scanning is a safe way of producing detailed images of the brain using magnetism. It does not use any form of ionising radiation (unlike X-ray) or radioactive substances (unlike PET imaging). Electroencephalography (EEG) is another safe way to study the brain by recording brain signals moment by moment. We use these tools to capture the response to single doses of drugs which briefly shift brain signalling. The drugs used in our projects have been extensively tested and found to be generally safe. For example, they act on the serotonin (5-HT) brain chemical system (psilocybin and citalopram), the GABA system (clobazam and arbaclofen), the opioid system (tianeptine) and/or have multiple brain targets (cannabidiol). </div>
 </p>
 
 <h4> <span style="color:white"> Our collaborations </span> </h4>
@@ -32,6 +57,6 @@ hero_media: funders.png
 </p>
 
 <h4> <span style="color:white"> Making a difference  </span> </h4>
-<p> <div style="text-align: justify; text-justify: inter-word; margin-right: -640px; width: 100\%; color:white; font-size:14.0pt"> We hope that our projects will expedite the discovery and development of novel strategies to tackle some of the difficulties that some people with conditions like autism experience daily. We hope that this provides more options for people to support their mental health and well-being while also preserving every person’s strengths and skills. </div>
+<p> <div style="text-align: justify; text-justify: inter-word; margin-right: -640px; width: 100\%; color:white; font-size:14.0pt"> We hope that our projects will expedite the discovery and development of novel strategies to tackle some of the difficulties that neurodivergent (e.g. autistic) people experience daily. We hope that this provides more options for people to support their mental health and well-being while also preserving every person’s strengths and skills. </div>
 </p>
 </section>
