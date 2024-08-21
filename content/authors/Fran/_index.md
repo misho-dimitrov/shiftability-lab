@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Team Members
+  - Team Members
 ---
 
 I joined the Department of Forensic and Neurodevelopmental Sciences at King’s College London in June 2023 as a Research Assistant in the Shiftability group, where I am currently working on two different pharmacologic studies targeting the serotonin and GABA systems in Autism (the latter as part of EU-AIMS). Prior to starting in my current role, I worked for Imperial College Healthcare as an MRI assistant at a community diagnostic hub, after earning a First-Class honours degree in Psychology and an MSc in Clinical Neuropsychiatry from King’s. For my MSc research project, I audited a clinical neurophysiology service to assess the roles of video-EEG telemetry and activation procedures in capturing and diagnosing non-epileptic seizures. 

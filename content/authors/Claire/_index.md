@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Team Members
+  - Team Members
 ---
 
 I joined the Department of Forensic and Neurodevelopmental Sciences at King’s College London in 2016 as a Research Assistant on the EU-AIMS Longitudinal European Autism Project (LEAP).

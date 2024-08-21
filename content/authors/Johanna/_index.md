@@ -55,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Team Members
+  - Team Members
 ---
 
 I joined King’s College London in 2014 to work on the Brain Imaging in Babies study, where I gained experience in fetal, neonatal and infant scanning.

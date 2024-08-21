@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Team Members
+  - Team Members
 ---
 
 I am a Lecturer in Biomarker Analysis, and I use EEG and eye tracking data to discover new biomarkers in neurodevelopmental and psychiatric conditions. I collaborate on a number of studies including AIMS-2-TRIALS, BASIS, BRIGHT and dHCP. 

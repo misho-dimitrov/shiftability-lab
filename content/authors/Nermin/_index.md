@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Team Members
+  - Team Members
 ---
 
 As a Clinician working in CAMHS, I have always had an interest in translational research that can help improve our understanding of mental health problems especially in the neurodiverse population. 

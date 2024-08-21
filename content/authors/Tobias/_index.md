@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Team Members
+  - Team Members
 ---
 
 Tobias completed his Masters in Neuroscience prior to joining COMPASS Pathways where he is currently a Research Scientist. He is also a PhD Student at King's College London and he is conducting an experimental medicine study of psilocybin in autistic adults. 

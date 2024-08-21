@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Team Members
+  - Team Members
 ---
 
 My work focuses on the use of magnetic resonance imaging (MRI) to explore the associations between neurochemistry and functional brain connectivity in autistic and neurotypical individuals. 
