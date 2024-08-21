@@ -18,7 +18,7 @@ content:
   user_groups:
     - Principal Investigators
     - Current Team Members
-    - Past Team Members
+    #- Past Team Members
     - Administration
     - Visitors
     - Alumni

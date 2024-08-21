@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Team Members
+  - Past Team Members
 ---
 
 I have always been extremely passionate about the study of human behavior and mind. I earned a First-Class honors degree in Psychological Sciences of Personality and Interpersonal Relationships BSc and an MSc in Cognitive Neuroscience and Clinical Neuropsychology. 

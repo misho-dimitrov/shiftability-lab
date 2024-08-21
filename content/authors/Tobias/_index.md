@@ -61,6 +61,6 @@ user_groups:
   - Current Team Members
 ---
 
-I completed my Masters in Neuroscience prior to my role as a Finance Executive and before joining COMPASS Pathways where I am currently a Research Scientist. My research projects involved the investigation of autism in addition to novel therapeutic interventions in mental health. During my thesis, I used novel genetic engineering techniques to study the role of an autism-associated gene on behaviour.
+Tobias completed his Masters in Neuroscience prior to joining COMPASS Pathways where he is currently a Research Scientist. He is also a PhD Student at King's College London and he is conducting an experimental medicine study of psilocybin in autistic adults. 
 
-<!--- PhD... ---->
+#<!--- PhD... ---->

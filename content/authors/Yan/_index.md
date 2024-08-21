@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Marja Johanna Kangas
+title: Yan Ge
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Nurse
+role: PhD Student 
 
 # Organizations/Affiliations
 organizations:
@@ -17,16 +17,15 @@ organizations:
 #bio: My research interests include ... .
 
 interests:
-  - Early brain development
-#  - b
-#  - c
-#  - d
+  - Autism
+  - Dynamic functional connectivity
+  - Neuropharmacology
 
 #education:
-#  courses:
-#    - course: ... in ...
-#      institution: Un
-#      year: 2020
+  #courses:
+    #- course: PhD
+      #institution: King's College London
+      #year: 2023
 
 
 # Social/Academic Networking
@@ -36,10 +35,8 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:johanna.kangas@kcl.ac.uk'
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/scientific-contributions/Johanna-Kangas-2155668585
+    link: 'mailto:yan.ge@kcl.ac.uk'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,4 +55,7 @@ user_groups:
   - Current Team Members
 ---
 
-I joined King’s College London in 2014 to work on the Brain Imaging in Babies study, where I gained experience in fetal, neonatal and infant scanning.
+I completed in my MSc in Developmental Psychology and Psychopathology in 2021 and joined the MRC Doctoral Training Partnership in Biomedical Sciences at King's College London in 2023.
+
+My PhD focuses on dynamic functional brain connectivity and neurochemical systems in autism. Before joining King’s, I completed my BSc in Bioscience at Huazhong University of Science and Technology.
+

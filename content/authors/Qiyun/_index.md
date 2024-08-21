@@ -17,9 +17,11 @@ organizations:
 #bio: My research interests include ... .
 
 interests:
-  - Discovering and validating EEG biomarkers across age groups of ASD
-  - Understanding how EEG biomarkers relate to outcome in autistic brain in response to candidate treatment and underpinning mechanisms
-  - Developing novel digital-pharmacological tools to stratify autistic individuals and identify individuals most likely to respond to potential treatments
+  - Autism
+  - Brain-computer interface
+  - EEG
+  - GABA
+  - Pharmaco-challenge studies  
 
 #education:
 #  courses:
@@ -54,9 +56,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Team Members
+  - Past Team Members
 ---
 
-I joined the Department of Forensic and Neurodevelopmental Sciences, IoPPN, KCL as a postdoctoral research associate In January 2020. My work focuses on discovering and validating EEG biomarkers across age groups in autism.
+I received my Bachelor degree in Automatic Control and Information Technology from Beihang University in 2013 and Master of Science in Electrical Engineering from University of Southern California in 2015. I completed my Ph.D. in Pattern Recognition and Intelligent System at South China University of Technology in 2019. I started working at the IoPPN as Postdoctoral Research Associate since Jan. 2020.
 
-I received my PhD from South China University of Technology (2019), MSc from University of Southern California (2015) and BSc from Beihang University (2013).
+My current research interests include i) test the hypothesis that there is a dynamic difference in GABA systems in ASD (using EEG) which constitutes a treatment target; ii) to objectively measure target engagement; and iii) improve stratification.
+

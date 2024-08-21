@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Team Members
+  - Past Team Members
 ---
 
 I started working at the FANS department at the IoPPN, King’s College London as a Clinical Research Worker in November 2016. Currently, I am working on my PhD project investigating the role of cerebral GABAergic circuitry in the Excitation-Inhibition balance in autistic adults.  

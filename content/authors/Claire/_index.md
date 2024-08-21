@@ -6,7 +6,7 @@ title: Claire Ellis
 superuser: false
 
 # Role/position
-role: PhD Student / Graduate Teaching Assistant 
+role: Postdoctoral Research Associate 
 
 # Organizations/Affiliations
 organizations:
@@ -48,9 +48,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/claire-louise-ellis-5b2893224/
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ClaireLEllis
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,9 +66,9 @@ user_groups:
   - Current Team Members
 ---
 
-I joined the Department of Forensic and Neurodevelopmental Sciences at King's College London in 2016 as a Research Assistant on the EU-AIMS Longitudinal European Autism Project (LEAP).
+I joined the Department of Forensic and Neurodevelopmental Sciences at King’s College London in 2016 as a Research Assistant on the EU-AIMS Longitudinal European Autism Project (LEAP).
 
-Since then, I have worked on two other research assistant posts at the SGDP (KCL) and at Birkbeck, University of London before starting my PhD back at the Department of Forensic and Neurodevelopmental Sciences in 2019. My PhD focuses on the investigation of novel proxy markers of excitatory- inhibitory (E-I) signalling using human EEG.
+Since then, I have worked on two other research assistant posts at the SGDP (KCL) and at Birkbeck, University of London before completing my PhD back at the Department of Forensic and Neurodevelopmental Sciences in 2023. My PhD focussed on the investigation of novel proxy markers of excitatory- inhibitory (E-I) signalling using human EEG.
 
 Prior to joining KCL I completed my BSc in Psychology and MSc in Psychological Research Methods at the University of Sheffield.
 

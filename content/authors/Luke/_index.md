@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Marja Johanna Kangas
+title: Luke Mason
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Nurse
+role: Lecturer 
 
 # Organizations/Affiliations
 organizations:
@@ -17,16 +17,15 @@ organizations:
 #bio: My research interests include ... .
 
 interests:
-  - Early brain development
-#  - b
-#  - c
-#  - d
+  - Basic attentional process, and links to social attention
+  - Face processing
+  - Multimodal integration of neuroscientific imaging data
 
 #education:
-#  courses:
-#    - course: ... in ...
-#      institution: Un
-#      year: 2020
+  #courses:
+    #- course: PhD
+      #institution: King's College London
+      #year: 2023
 
 
 # Social/Academic Networking
@@ -36,10 +35,8 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:johanna.kangas@kcl.ac.uk'
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/scientific-contributions/Johanna-Kangas-2155668585
+    link: 'mailto:luke.mason@kcl.ac.uk'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,4 +55,5 @@ user_groups:
   - Current Team Members
 ---
 
-I joined King’s College London in 2014 to work on the Brain Imaging in Babies study, where I gained experience in fetal, neonatal and infant scanning.
+I am a Lecturer in Biomarker Analysis, and I use EEG and eye tracking data to discover new biomarkers in neurodevelopmental and psychiatric conditions. I collaborate on a number of studies including AIMS-2-TRIALS, BASIS, BRIGHT and dHCP. 
+

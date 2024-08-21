@@ -6,7 +6,7 @@ title: Mihail 'Misho' Dimitrov
 superuser: true
 
 # Role/position
-role: PhD Student / Graduate Teaching Assistant
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -26,7 +26,7 @@ education:
   courses:
     - course: PhD in Neuroscience
       institution: King's College London
-      year: 2023
+      year: 2024
     - course: MSc in Neuroimaging
       institution: King's College London
       year: 2018
@@ -72,7 +72,5 @@ user_groups:
   - Current Team Members
 ---
 
-I am a PhD student at the Department of Forensic and Neurodevelopmental Sciences (IoPPN, KCL). My project focuses on the use of magnetic resonance imaging (MRI) to assess the effect of several different drugs on functional brain connectivity in autistic and neurotypical individuals. The overall aim of the study is to improve our understanding of neurobiological and neurochemical mechanisms in autism and typical development.
-
-I am also a graduate teaching assistant and an associate fellow of the Higher Education Academy. Over the past 4 years, I have contributed to several undergraduate and postgraduate courses at King's, including as a neuroscience tutor (BSc Neuroscience), neuroanatomy and neurophysiology demonstrator (BSc Neuroscience, Year I \& II Medicine and Dental Medicine), research methods and statistics demonstrator, and chief postgraduate tutor (MSc Clinical Neurodevelopmental Sciences).
+My work focuses on the use of magnetic resonance imaging (MRI) to explore the associations between neurochemistry and functional brain connectivity in autistic and neurotypical individuals. 
 
