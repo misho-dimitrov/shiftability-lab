@@ -23,7 +23,7 @@ hero_media: funders.png
 <h2> <span style="color:white;"> ABOUT </span> </h2>
 
 <h4> <span style="color:white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);"> Our aim </span> </h4>
-<div style="text-align: justify; text-justify: inter-word; margin-right: -640px; color:white; font-size:14.0pt; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
+<div style="text-align: justify; text-justify: inter-word; color:white; font-size:14.0pt; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
   Our brains are constantly at work, even at rest. Our aim is to better understand dynamic brain function, including in neurodiverse individuals. We are working with adults (ages 18 to 65) from various backgrounds and communities. We use drugs which target different chemical systems to understand how brain function is regulated. We call these studies ‘Shiftability’ studies because they measure what shifts or changes in the brain in response to a single dose of a drug.
 </div>
 
