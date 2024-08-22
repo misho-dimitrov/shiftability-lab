@@ -19,6 +19,15 @@ hero_media: funders.png
 <section>
   <h2> <span style="color:white;">  ABOUT </span> </h2>
 
+
+  <div style="background-color: rgba(0, 0, 0, 0.6); padding: 15px; border-radius: 5px;">
+    <h4> <span style="color:white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);"> Our aim </span> </h4>
+    <p>
+      <div style="text-align: justify; text-justify: inter-word; color:white; font-size:14.0pt; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
+        Our brains are constantly at work, even at rest. Our aim is to better understand dynamic brain function, including in neurodiverse individuals...
+      </div>
+    </p>
+
   <div style="background-color: rgba(0, 0, 0, 0.6); padding: 15px; border-radius: 5px;">
     <h4> <span style="color:white;"> Our aim </span> </h4>
     <p>
