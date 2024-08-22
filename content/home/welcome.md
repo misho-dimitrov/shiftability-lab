@@ -3,7 +3,29 @@ widget: hero
 widget_id: Description
 headless: true
 weight: 10
-title: <span style="color:white"> Brain Dynamics and Diversity Research Group </span>
+title: |
+  <span style="color:white"> Brain Dynamics and Diversity Research Group </span>
+  <style>
+    .background-overlay::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5); /* Black overlay with 50% opacity */
+        z-index: 1;
+    }
+
+    .widget-hero {
+        position: relative;
+        z-index: 2; /* Ensure content is above the overlay */
+    }
+
+    .widget-hero .hero-media {
+        z-index: 2; /* Ensure the media image is above the overlay */
+    }
+  </style>
 active: true
 design:
   columns: "1"
