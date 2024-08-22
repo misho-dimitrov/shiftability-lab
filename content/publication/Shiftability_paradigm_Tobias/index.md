@@ -1,7 +1,6 @@
 ---
 abstract: >
 Clinical trials of pharmacological candidates targeting the core features of autism have largely failed. This is despite evidence linking differences in multiple neurochemical systems to brain function in autism. While this has in part been explained by the heterogeneity of the autistic population, the field has largely relied upon association studies to link brain chemistry to function. The only way to directly establish that a neurotransmitter or neuromodulator is involved in a candidate brain function is to change it and observe a shift in that function. This experimental approach dominates preclinical neuroscience, but not human studies. There is little direct experimental evidence describing how neurochemical systems modulate information processing in the living human brain. Thus, our understanding of how neurochemical differences contribute to neurodiversity is limited, impeding our ability to translate findings from animal studies into humans. Here, we introduce our ‘shiftability’ paradigm, an approach to bridge the translational gap in autism research. We provide an overview of the guiding principles and methodologies we use to directly test the hypothesis that neurochemical systems function differently in autistic and non-autistic individuals.
-  
 slides: null
 url_pdf: null
 publication_types:
