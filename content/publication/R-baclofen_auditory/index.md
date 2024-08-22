@@ -33,7 +33,7 @@ url_source: ""
 url_video: ""
 publication: Translational Psychiatry (2023)
 featured: false
-#date: 2023-10-18T00:00:00.000Z
+date: 2023-10-18T00:00:00.000Z
 url_slides: ""
 title: "Exploratory evidence for differences in GABAergic regulation of auditory processing in autism spectrum disorder"
 tags: []
