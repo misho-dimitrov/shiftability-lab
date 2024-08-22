@@ -29,9 +29,9 @@ author_notes: []
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Prog Neuropsychopharmacol Biol Psychiatry. 89:236-244. (2019)
+publication: Progress in Neuro-Psychopharmacology & Biological Psychiatry. 89:236-244. (2019)
 featured: false
-date: 2019-01-05T00:00:00.000Z
+date: 2019-03-08T00:00:00.000Z
 url_slides: ""
 title: " The contribution of [1H] magnetic resonance spectroscopy to the study
   of excitation-inhibition in autism "
@@ -48,8 +48,9 @@ url_code: ""
 doi: https://doi.org/10.1016/j.pnpbp.2018.09.010
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+<!--- {{% callout note %}} ---->
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+<!--- Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software. ---->
+<!--- {{% /callout %}} ---->
+
+<!--- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). ---->

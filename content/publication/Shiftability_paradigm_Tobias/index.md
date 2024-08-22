@@ -19,9 +19,9 @@ author_notes: []
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Journal of Child Psychology and Psychiatry (2024)
+publication: Journal of Child Psychology and Psychiatry (2023)
 featured: false
-date: 2024-08-22T00:00:00.000Z
+date: 2023-12-21T00:00:00.000Z
 url_slides: ""
 title: "Editorial Perspective: Bridging the translational neuroscience gap in autism – development of the ‘shiftability’ paradigm"
 tags: []
@@ -37,8 +37,9 @@ url_code: ""
 doi: https://doi.org/10.1111/jcpp.13940
 ---
 
-#{{% callout note %}}
-#Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /callout %}}
+<!--- {{% callout note %}} ---->
 
-#Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+<!--- Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software. ---->
+<!--- {{% /callout %}} ---->
+
+<!--- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). ---->

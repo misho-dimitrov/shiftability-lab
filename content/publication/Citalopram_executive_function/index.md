@@ -47,9 +47,9 @@ author_notes: []
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Transl Psychiatry 9, 286 (2019)
+publication: Translational Psychiatry 9, 286 (2019)
 featured: false
-date: 2019-01-05T00:00:00.000Z
+date: 2019-11-11T00:00:00.000Z
 url_slides: ""
 title: Modulation of brain activation during executive functioning in autism
   with citalopram
@@ -66,8 +66,9 @@ url_code: ""
 doi: https://doi.org/10.1038/s41398-019-0641-0
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+<!--- {{% callout note %}} ---->
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+<!--- Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software. ---->
+<!--- {{% /callout %}} ---->
+
+<!--- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). ---->

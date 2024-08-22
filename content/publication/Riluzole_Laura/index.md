@@ -53,9 +53,9 @@ author_notes: []
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Transl Psychiatry 7, e1137 (2017)
+publication: Translational Psychiatry 7, e1137 (2017)
 featured: false
-date: 2017-01-05T00:00:00.000Z
+date: 2017-05-23T00:00:00.000Z
 url_slides: ""
 title: Shifting brain inhibitory balance and connectivity of the prefrontal
   cortex of adults with autism spectrum disorder
@@ -72,8 +72,9 @@ url_code: ""
 doi: https://doi.org/10.1038/tp.2017.104
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+<!--- {{% callout note %}} ---->
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+<!--- Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software. ---->
+<!--- {{% /callout %}} ---->
+
+<!--- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). ---->

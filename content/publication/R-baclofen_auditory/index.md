@@ -33,7 +33,7 @@ url_source: ""
 url_video: ""
 publication: Translational Psychiatry (2023)
 featured: false
-#date: 2023-00-00T00:00:00.000Z
+#date: 2023-10-18T00:00:00.000Z
 url_slides: ""
 title: "Exploratory evidence for differences in GABAergic regulation of auditory processing in autism spectrum disorder"
 tags: []
@@ -49,8 +49,9 @@ url_code: ""
 doi: https://doi.org/10.1038/s41398-023-02619-8
 ---
 
-#{{% callout note %}}
-#Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /callout %}}
+<!--- {{% callout note %}} ---->
 
-#Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+<!--- Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software. ---->
+<!--- {{% /callout %}} ---->
+
+<!--- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). ---->

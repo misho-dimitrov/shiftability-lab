@@ -53,7 +53,7 @@ url_source: ""
 url_video: ""
 publication: Neuropsychopharmacology. 44(8), 1398–1405. (2019)
 featured: false
-date: 2019-01-05T00:00:00.000Z
+date: 2019-02-06T00:00:00.000Z
 url_slides: ""
 title: " Effects of cannabidiol on brain excitation and inhibition systems; a
   randomised placebo-controlled single dose trial during magnetic resonance
@@ -71,8 +71,9 @@ url_code: ""
 doi: https://doi.org/10.1038/s41386-019-0333-8
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+<!--- {{% callout note %}} ---->
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+<!--- Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software. ---->
+<!--- {{% /callout %}} ---->
+
+<!--- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). ---->
