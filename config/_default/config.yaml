@@ -69,6 +69,3 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-params:
-  customCSS:
-    - "/css/custom.css"  # css file to remove limits for funders image and 'About' section
