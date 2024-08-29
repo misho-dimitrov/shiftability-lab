@@ -17,7 +17,7 @@ design:
 
 <!-- Insert the image manually after the title -->
 <div style="text-align:center; margin-top:20px;">
-  <img src="funders.png" alt="Funders Image" style="max-width:100%; height:auto;">
+  <img src="/assets/media/funders.png" alt="Funders Image" style="max-width:100%; height:auto;">
 </div>
 
 <br>
