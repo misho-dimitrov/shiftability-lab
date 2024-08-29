@@ -6,7 +6,7 @@ weight: 10
 title: <span style="color:white"> Brain Dynamics and Diversity Research Group </span>
 active: true
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: "background-overlay"
   background:
