@@ -21,10 +21,8 @@ design:
 </div>
 
 <br>
-<br>
-<br>
 
-<section style="background-color: rgba(0, 0, 0, 0.8); padding: 2vw; border-radius: 5px; width: 100%; max-width: none;">
+<section style="background-color: rgba(0, 0, 0, 0.8); padding: 2vw; border-radius: 5px; width: 100%; background-size: cover; background-position: center center; background-repeat: no-repeat;">
 
 <h2> <span style="color:white;"> ABOUT </span> </h2>
 
