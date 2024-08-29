@@ -12,20 +12,19 @@ design:
   background:
     image: synapse.jpg
     text_color_light: false
-hero_media: funders.png 
+#hero_media: funders.png 
 ---
 
-<style>
-  .widget-hero .hero-media {
-    margin-top: 20px;
-  }
-</style>
+<!-- Insert the image manually after the title -->
+<div style="text-align:center; margin-top:20px;">
+  <img src="funders.png" alt="Funders Image" style="max-width:100%; height:auto;">
+</div>
 
 <br>
 <br>
 <br>
 
-<section style="background-color: rgba(0, 0, 0, 0.8); padding: 2vw; border-radius: 5px; margin-right: -35vw;">
+<section style="background-color: rgba(0, 0, 0, 0.8); padding: 2vw; border-radius: 5px;">
 
 <h2> <span style="color:white;"> ABOUT </span> </h2>
 
