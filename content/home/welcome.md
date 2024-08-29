@@ -14,6 +14,13 @@ design:
     text_color_light: false
 hero_media: funders.png 
 ---
+
+<style>
+  .widget-hero .hero-media {
+    margin-top: 20px;
+  }
+</style>
+
 <br>
 <br>
 <br>
