@@ -18,7 +18,7 @@ hero_media: funders.png
 <br>
 <br>
 
-<section style="background-color: rgba(0, 0, 0, 0.8); padding: 2vw; border-radius: 5px; margin-right: -15vw;">
+<section style="background-color: rgba(0, 0, 0, 0.8); padding: 2vw; border-radius: 5px; margin-right: -30vw;">
 
 <h2> <span style="color:white;"> ABOUT </span> </h2>
 
